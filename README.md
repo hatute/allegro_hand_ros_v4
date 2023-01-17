@@ -1,5 +1,3 @@
-# allegro_hand_ros
-
 # Allegro Hand ROS
 
 This is the official release to control Allegro Hand with ROS Kinetic.
